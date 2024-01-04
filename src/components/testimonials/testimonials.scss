@@ -1,0 +1,30 @@
+.custom2-bg-pink{
+    background-color: rgb(240 207 207);
+}
+.custom3-bg-pink{
+    background-color: #bf938b;
+}
+
+@media screen and (max-width:580px) {
+    .test-rev{
+        font-size: 12px;
+    }
+}
+
+@media screen and (min-width:580px) and (max-width:990px){
+    .test-rev{
+        font-size: 9.7px;
+    }
+}
+
+@media screen and (min-width:990px) and (max-width:1300px){
+    .test-rev{
+        font-size: 10.8px;
+    }
+}
+
+@media screen and (min-width:1300px) {
+    .test-rev{
+        font-size: 16.1px;
+    }
+}
