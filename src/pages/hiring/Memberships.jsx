@@ -93,7 +93,7 @@ const Memberships = () => {
       <div class="image-item">
           <img src="./class-yoga48.jpg" alt=" "></img>
           <div class="info">
-            <h4>Online Morning Group Class</h4>
+            <h4>Online Group Class</h4>
             <p>6:00AM - 7:00AM<br></br> 7:00AM - 8:00AM, 5:00 PM - 6:00 PM</p>
             <a className="book-button1" href="https://forms.gle/XPYBtXvA22TXvigV8" target="_blank" rel="noopener noreferrer">
               Join Now
